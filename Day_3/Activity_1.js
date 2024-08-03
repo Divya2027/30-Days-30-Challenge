@@ -2,12 +2,12 @@
 
 //Task 1
 
-let num = 6;
-if(num > 0){
-    console.log(`${num} is positive.`);
+let number = 6;
+if(number > 0){
+    console.log(`${number} is positive.`);
 }
-else if(num < 0){
-    console.log(`${num} is negativ.`);
+else if(number < 0){
+    console.log(`${number} is negativ.`);
 }
 else{
     console.log("number is zero");
