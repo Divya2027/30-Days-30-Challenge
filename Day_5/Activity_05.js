@@ -12,11 +12,11 @@ console.log(matrix);
 
 // task 13
 
-const matrices = [
+const matrix2 = [
     [2, 4, 6],
     [3, 6, 9],
     [4, 8, 12]
 ];
-const specificElement = matrices[2][1];
+const specificElement = matrix2[2][1];
 
 console.log(specificElement);
