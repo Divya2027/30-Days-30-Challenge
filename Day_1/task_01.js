@@ -1,4 +1,4 @@
 //Variable Declaration
 
-var someNumber = 9569;
-console.log(someNumber); 
+var someNumbers = 9569;
+console.log(someNumbers); 
