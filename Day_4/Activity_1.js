@@ -9,7 +9,7 @@ for (let i = 1; i <= 10; i++) {
 
 //Task 2
 
-let num = 1;
-for(num = 1; num <=10; num++){
-    console.log(`${5*num}`);
+let number = 1;
+for(number = 1; number <=10; number++){
+    console.log(`${5*number}`);
 }
