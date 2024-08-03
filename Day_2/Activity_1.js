@@ -1,6 +1,6 @@
 //Arithmetic Operations
 
-let a = 8;
+let a = 12;
 let b = 2;
 console.log(a+b);    // task 1
 console.log(a-b);    // task 2
